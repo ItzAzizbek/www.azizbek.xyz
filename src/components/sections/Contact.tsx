@@ -27,7 +27,7 @@ export function Contact() {
       >
         <motion.div variants={fadeUp} className="flex items-center gap-4">
           <span className="font-mono text-xs uppercase tracking-[0.2em] text-ink-mute">
-            03 — Contact
+            04 — Contact
           </span>
           <span className="h-px flex-1 bg-line" />
         </motion.div>

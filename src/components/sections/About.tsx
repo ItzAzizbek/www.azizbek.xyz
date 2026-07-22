@@ -19,8 +19,8 @@ const PRINCIPLES = [
   },
   {
     code: "02",
-    title: "Hand-written code",
-    body: "Every line typed by me. No vibecoding, no autopilot — craft over generation.",
+    title: "AI writes, I decide",
+    body: "Generation is delegated; judgment isn't. I hold the architecture and the taste — the model holds the keyboard.",
   },
   {
     code: "03",
